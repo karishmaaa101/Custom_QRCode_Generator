@@ -48,6 +48,7 @@ First, clone this repository to your local machine:
 ```bash
 git clone https://github.com/your-username/custom-qr-code-generator.git
 cd custom-qr-code-generator
+```
 
 ### 2. Open index.html
 Once cloned, open the index.html file in any browser to start using the QR code generator.
